@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1560900491 source:/home/thomas/Documents/CodeBlocks/Server/Server/main.cpp
+	"pistache/endpoint.h"
+
